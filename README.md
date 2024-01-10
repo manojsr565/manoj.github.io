@@ -1,1 +1,2 @@
-Hi, This is Manoj learning to building a website.
+Hi, I am Manoj.
+Just learning to build a website.
