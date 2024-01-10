@@ -55,7 +55,7 @@
 /* Body */
 .main {
     font-size: 25px;
-    background-image: url('/images/5.jpg');
+    background-image: url('images/5.jpg');
     background-size: cover;
     padding: 10px;
     color: white;
