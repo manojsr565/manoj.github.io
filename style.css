@@ -87,8 +87,11 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: black;
-}
-pre {
     color: white;
     font-size: 25px;
 }
+/*pre {
+    color: white;
+    font-size: 25px;
+}
+*/
