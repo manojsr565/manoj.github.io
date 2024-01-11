@@ -22,7 +22,7 @@
 .pagination a{
     color: white;
     text-decoration: none;
-    padding: 7px 15px;
+    padding: 5px 10px;
     display: inline-block;
 }
 .pagination a.active{
@@ -73,6 +73,9 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: black;
+    color: white;
+    font-size: 25px;
+    overflow: auto;
 }
 .lyrics2 {
     background-image: url('/Images/2.jpg');
@@ -80,6 +83,9 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: black;
+    color: white;
+    font-size: 25px;
+    overflow: auto;
 }
 .lyrics3 {
     background-image: url('/Images/3.jpg');
@@ -87,10 +93,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: black;
-}
-pre {
     color: white;
     font-size: 25px;
     overflow: auto;
 }
-
