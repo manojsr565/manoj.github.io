@@ -73,6 +73,9 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: black;
+    color: white;
+    font-size: 25px;
+    overflow: scrollbar;
 }
 .lyrics2 {
     background-image: url('/Images/2.jpg');
@@ -80,6 +83,9 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: black;
+    color: white;
+    font-size: 25px;
+    overflow: scroll;
 }
 .lyrics3 {
     background-image: url('/Images/3.jpg');
@@ -89,6 +95,7 @@
     background-color: black;
     color: white;
     font-size: 25px;
+    overflow: auto;
 }
 /*pre {
     color: white;
